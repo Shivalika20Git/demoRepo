@@ -8,4 +8,9 @@ public class Demo5 {
 
 	}
 
+	public void newLogin()
+	{
+		System.out.println("New Login");
+	}
+	
 }
